@@ -24,7 +24,7 @@ LatticeJSON = "^0.1.6"
 latticeconstructor = "^0.2.3"
 nbsphinx = "^0.8.5"
 pandoc = "^1.0.2"
-ipykernel = "^5.5.5"
+ipykernel = "^6.13.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.4.2"
